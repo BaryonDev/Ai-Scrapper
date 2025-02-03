@@ -30,7 +30,7 @@ A sophisticated web scraping tool that combines the power of local AI (using Oll
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/ai-web-scraper.git
+git clone https://github.com/BaryonDev/Ai-Scrapper.git
 cd ai-web-scraper
 ```
 
