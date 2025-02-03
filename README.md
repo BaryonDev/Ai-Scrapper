@@ -102,12 +102,5 @@ This tool is for educational purposes only. Make sure to follow websites' robots
 - Flask for the lightweight web framework
 - All contributors who help improve this project
 
-## 📞 Support
-
-If you have any questions or need help, please:
-1. Check the existing issues
-2. Create a new issue with a detailed description of your problem
-3. Contact the maintainers
-
 ---
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Angky]
